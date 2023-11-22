@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-size: 35px;
+    font-size: 25px;
     font-family: Kdam Thmor Pro;
     color: white;
     
@@ -79,7 +79,7 @@ iframe{
 }
 
 .titlee{
-    font-size: 30px;
+    font-size: 25px;
     margin-left: 30px;
 }
 
